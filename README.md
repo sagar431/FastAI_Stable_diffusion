@@ -1,4 +1,4 @@
-Certainly! Here’s a GitHub `README.md` file for the course:
+
 
 ---
 
